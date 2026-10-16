@@ -179,3 +179,22 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Campus Food Demand Forecasting project
+.env.*
+!.env.example
+
+# Local editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated data and experiment outputs
+data/processed/
+data/external/
+
+# Model training outputs and logs
+mlruns/
+*.log
+# Raw dataset files (keep local until redistribution terms are verified)
+data/raw/
