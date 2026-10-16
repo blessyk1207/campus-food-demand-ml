@@ -72,11 +72,10 @@ The raw dataset is not included in this repository. Obtain the dataset from its 
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/blessyk1207/campus-food-demand-ml
 cd campus-food-demand-ml
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual repository URL.
 
 ### 2. Create and activate a virtual environment
 
